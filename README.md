@@ -8,8 +8,8 @@ A single price grid component
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-qzRBI-wsCG)
+- [Live site URL](https://precious-umeh.github.io/single-price-grid-component/)
 
 ## My process
 
